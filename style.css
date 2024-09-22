@@ -1,13 +1,12 @@
 /* Tjhi */
-.eapps-widget .iGDhJF .djTjHI{
- position:relative;
- bottom:-132px;
- background-color:transparent;
- transform:translatex(-8px) translatey(-98px);
+.eapps-widget .iGDhJF .djTjHI {
+    position: relative;
+    bottom: -132px;
+    background-color: transparent;
+    transform: translatex(-8px) translatey(-98px);
 }
 
 /* Body */
-body{
- background-image:url("https://images.unsplash.com/photo-1601850494422-3cf14624b0b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8MXx8bG9maSUyMGFuaW1lfGVufDB8fHx8MTcyNzAwMjM5NHww&ixlib=rb-4.0.3&q=80&w=2560");
+body {
+    background-image: url("https://images.unsplash.com/photo-1601850494422-3cf14624b0b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNTc5fDB8MXxzZWFyY2h8MXx8bG9maSUyMGFuaW1lfGVufDB8fHx8MTcyNzAwMjM5NHww&ixlib=rb-4.0.3&q=80&w=2560");
 }
-
