@@ -3,6 +3,7 @@
  position:relative;
  bottom:-132px;
  background-color:transparent;
+ transform:translatex(-8px) translatey(-98px);
 }
 
 /* Body */
